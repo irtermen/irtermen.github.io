@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://irtermen.github.io/sitemap.html.gz
+Sitemap: https://irtermen.github.io/app/sitemap.html.gz
+Sitemap: https://irtermen.github.io/assets/sitemap.html.gz
+Sitemap: https://irtermen.github.io/css/sitemap.html.gz
+Sitemap: https://irtermen.github.io/data/sitemap.html.gz
+Sitemap: https://irtermen.github.io/includes/sitemap.html.gz
+Sitemap: https://irtermen.github.io/item/sitemap.html.gz
+Sitemap: https://irtermen.github.io/src/sitemap.html.gz
